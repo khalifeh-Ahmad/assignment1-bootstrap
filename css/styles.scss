@@ -72,3 +72,11 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+.modal-body{
+    background-color:$background-pale ;
+    color: #0f0f0f;
+}
+
+.modal-header button{
+    color:$background-pale ;
+}
